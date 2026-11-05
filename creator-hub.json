@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "creator": {
+    "name": "HenxDraws",
+    "bio": "Hey there, I'm Henx, a Swedish comic creator — Driven by passion, fuelled by coffee (as most Swedes are).\n\nI'm currently working on:\nLife of Light - A fantasy comedy about the magnificent hero, Light, who kinda just don't wanna be a hero.\nAstro Hub 5 - Unannounced and mysterious. Available soon on a site near you."
+  },
+  "socials": [
+    {
+      "label": "Patreon",
+      "url": "https://www.patreon.com/c/HenxDraws"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@HenxDraws"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/henxdraws/"
+    }
+  ],
+  "support": {
+    "title": "Enjoying the comic?",
+    "text": "Want early pages, behind-the-scenes sketches, and more? Just feel like supporting my work?\n\nJoin me on Patreon!",
+    "linkText": "Support on Patreon",
+    "url": "https://www.patreon.com/c/HenxDraws"
+  },
+  "comics": [
+    {
+      "title": "Astro Hub 5",
+      "url": "https://astrohub.thecomicseries.com/",
+      "status": "In development",
+      "cover": "https://astrohub.thecomicseries.com/comics/pl/3139540/",
+      "description": "A sci-fi comedy about a station where everything is fine and nothing ever goes wrong."
+    },
+    {
+      "title": "Life of Light",
+      "url": "https://lifeoflight.thecomicseries.com/",
+      "status": "In development",
+      "cover": "https://img.comicfury.com/comics/webcomiccovers/small/437/75605_1775140387b131134f1266374139.webp",
+      "description": "A story about a depressed hero, a bubbly cursed knight, and very smart mascot. Doesn't get better than that."
+    }
+  ]
+}
