@@ -1,8 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "creator": {
     "name": "HenxDraws",
-    "bio": "Hey there, I'm Henx, a Swedish comic creator — Driven by passion, fuelled by coffee (as most Swedes are).\n\nI'm currently working on:\nLife of Light - A fantasy comedy about the magnificent hero, Light, who kinda just don't wanna be a hero.\nAstro Hub 5 - Unannounced and mysterious. Available soon on a site near you."
+    "bio": "Hey there, I'm Henx, a Swedish comic creator — Driven by passion, fuelled by coffee (as most Swedes are).\n\nI'm currently working on:\nLife of Light - A fantasy comedy about the magnificent hero, Light, who kinda just don't wanna be a hero.\nAstro Hub 5 - Unannounced and mysterious. Available soon on a site near you.",
+    "photo": "https://dahenx.github.io/orbit-creator-hub/Profile%20pic.png"
   },
   "socials": [
     {
@@ -24,20 +25,35 @@
     "linkText": "Support on Patreon",
     "url": "https://www.patreon.com/c/HenxDraws"
   },
+  "announcement": {
+    "enabled": true,
+    "id": "notice-1",
+    "title": "New comic announcement: Astro Hub 5!",
+    "text": "My new comic, \"Astro Hub 5\", will be available starting March 4th. Put a bookmark on the page, and mark it in your calendar!\n\nAstro Hub 5 will be released in batches whenever I finish a chapter. \nI will be releasing 1 page per day for 2 weeks, and then take a break until the next chapter is available.\n\nHope to see you there!",
+    "image": "https://dahenx.github.io/orbit-creator-hub/astro-hub-cover.png",
+    "imageAlt": "",
+    "linkText": "Astro Hub 5",
+    "url": "https://astrohub.thecomicseries.com/"
+  },
+  "schedule": {
+    "text": ""
+  },
   "comics": [
     {
       "title": "Astro Hub 5",
       "url": "https://astrohub.thecomicseries.com/",
       "status": "In development",
       "cover": "https://dahenx.github.io/orbit-creator-hub/astro-hub-cover.png",
-      "description": "A sci-fi comedy about a station where everything is fine and nothing ever goes wrong."
+      "description": "A sci-fi comedy about a station where everything is fine and nothing ever goes wrong.",
+      "featured": true
     },
     {
       "title": "Life of Light",
       "url": "https://lifeoflight.thecomicseries.com/",
       "status": "Ongoing",
       "cover": "https://img.comicfury.com/comics/webcomiccovers/small/437/75605_1775140387b131134f1266374139.webp",
-      "description": "A story about a depressed hero, a bubbly cursed knight, and a very smart mascot. Doesn't get better than that."
+      "description": "A story about a depressed hero, a bubbly cursed knight, and a very smart mascot. Doesn't get better than that.",
+      "featured": false
     }
   ]
 }
